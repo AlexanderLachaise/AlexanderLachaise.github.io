@@ -1,0 +1,32 @@
+@import url("components/avatars.css");
+@import url("components/cadre.css");
+@import url("components/buttons.css");
+@import url("components/card.css");
+
+
+
+h1{color: #A0204C;
+font-size: 50px;
+font-family: 'Anton', sans-serif;}
+
+.cadre{background-color: #FF6C00;
+text-align: center;
+margin:100px;
+border: solid 10px white;
+box-shadow: 8px 8px 8px #A2EF44}
+
+body{background-color: #282D4F;}
+
+p{font-weight: lighter;
+font-family: 'Lato', sans-serif;
+}
+
+#ImgBordeaux {width: 700px}
+img{width: 500px}
+
+#abstract {font-weight: bold;}
+.shadow{box-shadow:8px 8px 8px 0E1428}
+
+.icon-network{font-size: 80px;
+color: white}
+
